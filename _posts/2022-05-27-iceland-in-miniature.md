@@ -8,14 +8,14 @@ image: /assets/images/blogs/iceland-in-miniature/kirkjufell.jpg
 Snæfellsnes Peninsula, located in the West of Iceland is by far one of
 my favorite places in Iceland.
 
-<!--more-->
-
 This peninsula, located a couple of hours' drive from Reykjavik, is like
 a miniature version of the whole country and has everything Iceland has
 to offer: impressive lava fields, out of this world rock formations,
 lava caves, black and golden beaches, birdlife, charming fishing
 villages, spectacular mountains and a world-famous glacier, the majestic
 Snæfellsjökull.
+
+<!--more-->
 
 No matter how often I visit Snæfellsnes, I never get tired and I always
 discover something new. I believe Snæfellsnes is a special place you
@@ -30,7 +30,7 @@ take a [snow-cat tour on Snæfellsjökull](https://sfn.is/tours/snaefellsjokull-
 
 <span class="image fit"><img src="/assets/images/blogs/iceland-in-miniature/house.jpg" alt="" /></span>
 
-## **Places to see on Snæfellsnes**
+## Places to see on Snæfellsnes
 
 There are so many places to explore and activities to do on
 Snæfellsnes!\
