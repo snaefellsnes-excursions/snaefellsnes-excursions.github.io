@@ -1,0 +1,124 @@
+---
+layout: default
+---
+
+<!-- Banner -->
+<section id="banner">
+  <div class="content">
+    <h1>Snæfellsnes Excurions</h1>
+    <p>Your gateway to Iceland's best kept secret</p>
+  </div>
+  <a href="#tours" class="more scrolly">Learn More</a>
+</section>
+
+<!-- Section -->
+<section class="main alt" id="tours">
+  <header>
+    <h2>Tours</h2>
+    <p>Make your dream come true and come with us on a tour of Snæfellsnes</p>
+  </header>
+  <div class="inner">
+    {%- assign tours = site.tours | where: "active", true %}
+    {%- for tour in tours -%}
+      {% assign mod = forloop.index | modulo: 2 %}
+      <article class="post style2 {% if mod == 0 %}alt{% endif %}">
+        <div class="content">
+          <header>
+            <span class="category">{{ tour.duration }}</span>
+            <h3>{{ tour.title }}</h3>
+          </header>
+          <p>{{ tour.excerpt }}</p>
+          <ul class="actions">
+            <li><a href="{{ tour.url | relative_url }}" class="button next">Learn More</a></li>
+          </ul>
+        </div>
+        <div class="image" data-position="center"><img src="{{ tour.image }}" alt="" /></div>
+      </article>
+    {%- endfor -%}
+  </div>
+</section>
+
+<!-- Section -->
+<section class="main" id="team">
+  <header>
+    <h2>The team</h2>
+    <p>The hard-working people that work tirelessly to make your dreams become reality</p>
+  </header>
+  <div class="inner">
+    <ul class="faces">
+      <li>
+        <span class="image"><img src="/assets/images/team/hjalti.png" alt="" /></span>
+        <h3>Hjalti</h3>
+        <p>"Manager" and "owner"</p>
+      </li>
+      <li>
+        <span class="image"><img src="images/pic02.jpg" alt="" /></span>
+        <h3>Lísa</h3>
+        <p>Actual manager and owner</p>
+      </li>
+      <li>
+        <span class="image"><img src="images/pic03.jpg" alt="" /></span>
+        <h3>Elísa</h3>
+        <p>Food consultant</p>
+      </li>
+      <li>
+        <span class="image"><img src="/assets/images/team/skuggi.jpg" alt="" /></span>
+        <h3>Skuggi</h3>
+        <p>Morale booster</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<!-- Section -->
+<section class="main accent2" id="blog">
+  <header>
+    <h2>Blog</h2>
+    <p>We blog when we have something nice to say about Snæfellsnes and Iceland</p>
+  </header>
+  <div class="inner">
+    {%- for post in site.posts -%}
+    {% assign mod = forloop.index | modulo: 2 %}
+      <article class="post {% if mod == 1 %}alt{% endif %}">
+        <div class="content">
+          <header>
+            <span class="category">{{ post.category }}</span>
+            <h3>{{ post.title }}</h3>
+          </header>
+          <p>{{ post.excerpt }}</p>
+          <ul class="actions">
+            <li><a href="{{ post.url | relative_url }}" class="button next">Read More</a></li>
+          </ul>
+        </div>
+        <div class="image" data-position="center"><img src="{{ post.image }}" alt="" /></div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Section -->
+<section class="main alt special">
+  <header>
+    <h2>Get in touch</h2>
+    <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Sed consequat amet dolor magna consequat. Lorem ipsum dolor amet nullam sed etiam veroeros.</p>
+  </header>
+  <div class="inner narrow">
+    <form action="#" method="post">
+      <div class="fields">
+        <div class="field half">
+          <input name="name" id="name" placeholder="Name" type="text" />
+        </div>
+        <div class="field half">
+          <input name="email" id="email" placeholder="Email" type="email" />
+        </div>
+        <div class="field">
+          <textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+        </div>
+      </div>
+      <ul class="actions special">
+        <li><button class="button next" type="submit">Send Message</button></li>
+      </ul>
+    </form>
+  </div>
+</section>
+
