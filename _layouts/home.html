@@ -90,7 +90,7 @@ layout: default
     <p>For any questions or inquiries, do not hesitate to contact us and we will be happy to assist you plan your trip to Snæfellsnes and Iceland.</p>
   </header>
   <div class="inner narrow">
-    <form action="#" method="post">
+    <form id="contact-form" action="https://formspree.io/f/mayzlaek" method="POST">
       <div class="fields">
         <div class="field half">
           <input name="name" id="name" placeholder="Name" type="text" />
@@ -105,7 +105,45 @@ layout: default
       <ul class="actions special">
         <li><button class="button next" type="submit">Send Message</button></li>
       </ul>
+      <div style="display: none;" class="alert box" id="contact-form-status">
+      </div>
     </form>
   </div>
 </section>
-
+<script>
+  var form = document.getElementById("contact-form");
+  
+  async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("contact-form-status");
+    status.classList.remove("error", "success");
+    status.style.display = "block";
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+          'Accept': 'application/json'
+      }
+    }).then(response => {
+      if (response.ok) {
+        status.innerHTML = "Thanks for your submission!";
+        status.classList.add("success");
+        form.reset()
+      } else {
+        status.classList.add("error");
+        response.json().then(data => {
+          if (Object.hasOwn(data, 'errors')) {
+            status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+          } else {
+            status.innerHTML = "Oops! There was a problem submitting your form"
+          }
+        })
+      }
+    }).catch(error => {
+      status.classList.add("error");
+      status.innerHTML = "Oops! There was a problem submitting your form"
+    });
+  }
+  form.addEventListener("submit", handleSubmit)
+</script>

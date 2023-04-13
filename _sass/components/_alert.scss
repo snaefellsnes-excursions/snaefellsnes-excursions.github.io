@@ -1,0 +1,9 @@
+.alert {
+	font-weight: 600;
+	&.success {
+		background-color: #a3cfbb44;
+	}
+	&.error { 
+		background-color: #f1aeb544;
+	}
+}
