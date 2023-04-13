@@ -15,10 +15,10 @@ layout: default
 <section class="main alt" id="tours">
   <header>
     <h2>Tours</h2>
-    <p>Make your dream come true and come with us on a tour of Snæfellsnes</p>
+    <p>Join us on a trip to discover the wonders of Snæfellsnes</p>
   </header>
   <div class="inner">
-    {%- assign tours = site.tours | where: "active", true %}
+    {%- assign tours = site.tours | where: "active", true | sort: 'order' %}
     {%- for tour in tours -%}
       {% assign mod = forloop.index | modulo: 2 %}
       <article class="post style2 {% if mod == 0 %}alt{% endif %}">
@@ -27,7 +27,7 @@ layout: default
             <span class="category">{{ tour.duration }}</span>
             <h3>{{ tour.title }}</h3>
           </header>
-          <p>{{ tour.excerpt }}</p>
+          <p>{{ tour.short_description }}</p>
           <ul class="actions">
             <li><a href="{{ tour.url | relative_url }}" class="button next">Learn More</a></li>
           </ul>
@@ -46,26 +46,13 @@ layout: default
   </header>
   <div class="inner">
     <ul class="faces">
+      {% for member in site.data.team %}
       <li>
-        <span class="image"><img src="/assets/images/team/hjalti.png" alt="" /></span>
-        <h3>Hjalti</h3>
-        <p>"Manager" and "owner"</p>
+        <span class="image"><img src="/assets/images/team/{{ member.image }}" alt="" /></span>
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.role }}</p>
       </li>
-      <li>
-        <span class="image"><img src="/assets/images/team/hjalti.png" alt="" /></span>
-        <h3>Lísa</h3>
-        <p>Actual manager and owner</p>
-      </li>
-      <li>
-        <span class="image"><img src="/assets/images/team/skuggi.jpg" alt="" /></span>
-        <h3>Elísa</h3>
-        <p>Food consultant</p>
-      </li>
-      <li>
-        <span class="image"><img src="/assets/images/team/skuggi.jpg" alt="" /></span>
-        <h3>Skuggi</h3>
-        <p>Morale booster</p>
-      </li>
+      {% endfor %}
     </ul>
   </div>
 </section>
@@ -74,7 +61,7 @@ layout: default
 <section class="main accent2" id="blog">
   <header>
     <h2>Blog</h2>
-    <p>We blog when we have something nice to say about Snæfellsnes and Iceland</p>
+    <p>Learn more about Snæfellsnes and Iceland</p>
   </header>
   <div class="inner">
     {%- for post in site.posts -%}
@@ -97,10 +84,10 @@ layout: default
 </section>
 
 <!-- Section -->
-<section class="main alt special">
+<section class="main alt special" id="contact">
   <header>
     <h2>Get in touch</h2>
-    <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Sed consequat amet dolor magna consequat. Lorem ipsum dolor amet nullam sed etiam veroeros.</p>
+    <p>For any questions or inquiries, do not hesitate to contact us and we will be happy to assist you plan your trip to Snæfellsnes and Iceland.</p>
   </header>
   <div class="inner narrow">
     <form action="#" method="post">

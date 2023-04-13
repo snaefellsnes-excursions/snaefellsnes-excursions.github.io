@@ -44,6 +44,11 @@
 				background-color: _palette(bg);
 				border-radius: _size(border-radius);
 
+				p {
+					text-align: justify;
+					text-justify: inter-word;
+				}
+
 				> .image.main:first-child {
 					position: relative;
 					top: -5rem;

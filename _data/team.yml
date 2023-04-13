@@ -1,0 +1,12 @@
+- name: Hjalti
+  role: Owner and passionate driver
+  image: hjalti.png
+- name: Lísa
+  role: Manager and accounting guru
+  image: Lisa.jpg
+- name: Elísa
+  role: Tour specialist and guide
+  image: elisa.jpg
+- name: Skuggi
+  role: Morale booster
+  image: skuggi.jpg

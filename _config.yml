@@ -48,7 +48,7 @@ collections:
     tours:
         output: true
 
-excerpt_separator: "<!--more-->"
+excerpt_separator: "\n\n"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
