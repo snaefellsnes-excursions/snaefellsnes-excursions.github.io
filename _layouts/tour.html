@@ -6,12 +6,20 @@ layout: default
   <header>
     <h1>{{ page.title | escape }}</h1>
     <p>{{ page.intro }}</p>
+    {%- include bokun-widget.html id=page.bokun_id -%}
   </header>
 
   <div class="inner style2">
     <div class="image main" data-position="center"><img src="{{ page.image }}" alt="" /></div>
     {{ content }}
+    
+    <div class="row aln-center">
+      <div>
+      {%- include bokun-widget.html id=page.bokun_id -%}
+      </div>
+    </div>
   </div>
+
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </section>

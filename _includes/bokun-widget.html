@@ -1,0 +1,15 @@
+{% if include.id %}
+<script
+    type="text/javascript" 
+    src="https://widgets.bokun.io/assets/javascripts/apps/build/BokunWidgetsLoader.js?bookingChannelUUID=a812ca61-9c2d-4715-967f-c84a832a4fb0"
+    async
+>
+</script>
+<button 
+    class="bokunButton" 
+    disabled 
+    id=bokun_0a7131c6_8a8e_4b1a_84b7_7837b4c7040c 
+    data-src="https://widgets.bokun.io/online-sales/a812ca61-9c2d-4715-967f-c84a832a4fb0/experience/{{ include.id }}?partialView=1" 
+    data-testid="widget-book-button"
+>Book now</button> 
+{% endif %}
