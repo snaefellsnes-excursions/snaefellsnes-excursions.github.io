@@ -7,7 +7,7 @@ image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 3
 active: true
 short_description: Discover the best of Snæfellsnes on our popular bus tour
-#bokun_id: 833852
+bokun_id: 833852
 ---
 Join us on a fascinating journey through the mesmerizing wonders of Snæfellsnes, a region of Iceland that promises to leave a lasting impression. Prepare for an extraordinary tour where nature’s breathtaking landscapes unfold at every twist and turn. 
 

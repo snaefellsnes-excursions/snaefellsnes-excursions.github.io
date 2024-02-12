@@ -6,7 +6,7 @@ image: /assets/images/tours/west-tour/stykkisholmur.jpg
 active: true
 order: 2
 short_description: A short tour to experience West Snæfellsnes
-#bokun_id: 833356
+bokun_id: 833356
 ---
 
 Embark on a fascinating journey through the heart of Iceland's rich sagas and captivating traditions with our uniquely crafted tour. Starting in the tranquil village of **Grundarfjörður**, nestled at the foot of the iconic **Kirkjufell**, our adventure promises a seamless blend of rugged landscapes and intriguing stories. 
