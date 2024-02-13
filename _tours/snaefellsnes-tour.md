@@ -37,4 +37,25 @@ Our local drivers and knowledgeable tour guides will make sure you have a great 
 
 Are you looking for a shorter tour from Grundarfjörður? Check out our **[Shark Museum and Stykkishólmur Bus Tour]({% link _tours/west-tour.md %})**. 
 
-For more information, feel free to get in touch and we will be happy to assist you. 
+---
+
+### Practical Information
+
+**Price**: 18.000 ISK per person for adults, 14.500 ISK per person for children (6-15)
+
+**Minimum Age**: 6 years old 
+
+**Departure Location**: Snæfellsnes Excursions Office in Sólvellir 5, Grundarfjörður, Iceland. [**See map**](https://maps.app.goo.gl/4rx1DKxHTbuTQ8cX7)
+
+**Drop-off Location**: Grundarfjörður Harbour
+
+**Duration**: Approximately 5 hours
+
+**Group Size**: Up to 59 people on the bus
+
+**Cancellation Policy**: Cancellation fee of 100% is charged if cancelled 1 day or less before the event.
+Cancellation fee of 5% is charged if cancelled anytime after booking, to cover our transaction fees. 
+
+We require a minimum of 10 participants to proceed with the tour. Should this threshold not be met, the tour may be subject to cancellation.
+
+Please note that the tour itinerary is subject to change without prior notice due to factors such as changes in the ship's departure schedule, adverse weather conditions, or road conditions.
