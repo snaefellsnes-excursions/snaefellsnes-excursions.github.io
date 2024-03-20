@@ -12,7 +12,11 @@ layout: default
   <div class="inner style2">
     <div class="image main" data-position="center"><img src="{{ page.image }}" alt="" /></div>
     {{ content }}
-    
+
+    <hr>
+
+    {%- include practical-info.html -%}
+
     <div class="row aln-center">
       <div>
       {%- include bokun-widget.html id=page.bokun_id -%}

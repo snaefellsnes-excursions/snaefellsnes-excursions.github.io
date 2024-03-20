@@ -1,0 +1,33 @@
+<div class="practical-info">
+  <h4>Practical Information</h4>
+
+  {% for info in page.practical_info %}
+  <div class="info-item">
+    <h5>{{ info[0] }}</h5>
+    <div class="info-desc">{{ info[1] | markdownify }}
+    </div>
+  </div>
+  {% endfor %}
+
+  <div class="cancellation-policy">
+    <h5>Cancellation policy</h5>
+
+    <p>
+    Cancellation fee of 100% is charged if cancelled 1 day or less before the
+    event. Cancellation fee of 5% is charged if cancelled anytime after booking, to
+    cover our transaction fees.
+    </p>
+
+    <p>
+    We require a minimum of {{ page.min_pax | default: 5 }} participants to proceed
+    with the tour. Should this threshold not be met, the tour may be subject to
+    cancellation.
+    </p>
+
+    <p>
+    Please note that the tour itinerary is subject to change without prior notice
+    due to factors such as changes in the ship’s departure schedule, adverse
+    weather conditions, or road conditions.
+    </p>
+  </div>
+</div>
