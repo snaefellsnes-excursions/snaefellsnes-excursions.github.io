@@ -1,12 +1,21 @@
 - name: Hjalti
-  role: Owner and passionate driver
+  role: Owner and Fun Driver
   image: hjalti.png
 - name: Lísa
-  role: Manager and accounting guru
+  role: Manager and Accounting Guru
   image: Lisa.jpg
-- name: Elísa
-  role: Tour specialist and guide
+- name: Elisa
+  role: Tour Specialist and Wanderlust Wizard
   image: elisa.jpg
+- name: Rannveig
+  role: Ever-smiling Tour Guide 
+  image: rannveig.jpg
+- name: Valdi
+  role: Experienced Wheel-man
+  image: valdi.jpg
+- name: Radek
+  role: Jolly Bus Captain
+  image: radek.jpg
 - name: Skuggi
-  role: Morale booster
+  role: Morale Booster
   image: skuggi.jpg
