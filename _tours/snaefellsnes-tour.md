@@ -17,6 +17,7 @@ practical_info:
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 5 hours
   Group Size: Up to 59 people on the bus
+  Distance Driven: 145 km/ 90 mi
 bokun_id: 833852
 ---
 
