@@ -6,6 +6,7 @@ duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 3
 active: true
+cancellation: true
 short_description: Discover the best of Snæfellsnes on our popular bus tour
 practical_info:
   Price: |

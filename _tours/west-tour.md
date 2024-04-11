@@ -4,6 +4,7 @@ title: Shark Museum and Stykkishólmur Tour
 duration: 3 hours
 image: /assets/images/tours/west-tour/stykkisholmur.jpg
 active: true
+cancellation: true
 order: 2
 short_description: A short tour to experience West Snæfellsnes
 bokun_id: 833356

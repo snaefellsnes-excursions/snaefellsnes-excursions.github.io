@@ -13,10 +13,12 @@ layout: default
     <div class="image main" data-position="center"><img src="{{ page.image }}" alt="" /></div>
     {{ content }}
 
+    {% if page.cancellation %}
     <hr>
 
     {%- include practical-info.html -%}
 
+    {% endif %}
     <div class="row aln-center">
       <div>
       {%- include bokun-widget.html id=page.bokun_id -%}
