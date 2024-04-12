@@ -34,6 +34,7 @@
 		@include color-list($p);
 		@include color-table($p);
 		@include color-post($p);
+		@include color-faq($p);
 	}
 
 // Base.
@@ -49,6 +50,7 @@
 	@import 'components/box';
 	@import 'components/button';
 	@import 'components/form';
+	@import 'components/faq';
 	@import 'components/icon';
 	@import 'components/image';
 	@import 'components/list';

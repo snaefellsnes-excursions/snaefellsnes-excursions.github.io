@@ -1,0 +1,38 @@
+@mixin color-faq($p: null) {
+  $highlight: _palette($p, highlight);
+  .faq-list {
+    .faq-btn {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin-top: 30px;
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      .faq-btn-indicator {
+        font-size: 18px;
+      }
+    }
+
+    .active {
+      background-color: darken(_palette($highlight, bg), 5);
+    }
+
+    .faq-content {
+      padding: 0 4rem;
+      background-color: white;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+
+      p:first-child {
+        margin-top: 2rem;
+      }
+
+    }
+  }
+}
+
+@include color-faq;
