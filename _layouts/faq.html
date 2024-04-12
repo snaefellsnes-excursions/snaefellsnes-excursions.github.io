@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<section class="main alt">
+
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="inner">
+    <div class="faq-list">
+      {% for item in page.faq %}
+      <button type="button" class="button faq-btn">
+        <span class="faq-q">
+        {{ item.q }}
+        </span>
+        <span class="faq-btn-indicator">
+          &#9660;
+        </span>
+      </button>
+      <div class="faq-content">
+        {{ item.a | markdownify }}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</section>
+
+
+<script>
+var coll = document.getElementsByClassName("faq-btn");
+
+for (let i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    const isActive = this.classList.contains("active");
+    const res = this.getElementsByClassName("faq-btn-indicator")
+    if (res.length) {
+      const indicator = res[0]
+      if (isActive) {
+        indicator.innerHTML = "&#9650;"
+      } else {
+        indicator.innerHTML = "&#9660;"
+      }
+    }
+    const content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
