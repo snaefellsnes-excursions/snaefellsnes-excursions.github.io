@@ -24,4 +24,4 @@ At the end of this spectacular **sightseeing tour**, we take you back to Arnarst
 
 Embark on more than just a tour; it's an expedition that offers a profound connection with Iceland’s raw and untamed beauty. 
 
-The Snæfellsjökull Snow Cat Adventure is a sightseeing experience designed to immerse you in the majestic and mystical without the need for strenuous hiking, providing an unforgettable experience that will resonate with you long after you've descended from the ice.
+The **Snæfellsjökull Snow Cat Adventure** is a sightseeing experience designed to immerse you in the majestic and mystical without the need for strenuous hiking, providing an unforgettable experience that will resonate with you long after you've descended from the ice.
