@@ -9,17 +9,17 @@ layout: default
 
   <div class="inner">
     <div class="faq-list">
-      {% for item in page.faq %}
+      {% for item in site.faq %}
       <button type="button" class="button faq-btn">
         <span class="faq-q">
-        {{ item.q }}
+        {{ item.title }}
         </span>
         <span class="faq-btn-indicator">
           &#9660;
         </span>
       </button>
       <div class="faq-content">
-        {{ item.a | markdownify }}
+        {{ item.content | markdownify }}
       </div>
       {% endfor %}
     </div>

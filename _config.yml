@@ -47,6 +47,9 @@ social:
 collections:
     tours:
         output: true
+    faq:
+        output: false
+        sort_by: order
 
 excerpt_separator: "\n\n"
 
