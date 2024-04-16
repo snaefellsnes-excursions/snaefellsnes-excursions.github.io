@@ -4,7 +4,7 @@ title: Scenic Snæfellsnes Bus Tour
 intro: An introduction some of the best attractions on Snæfellsnes
 duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
-order: 3
+order: 30
 active: true
 cancellation: true
 short_description: Discover the best of Snæfellsnes on our popular bus tour

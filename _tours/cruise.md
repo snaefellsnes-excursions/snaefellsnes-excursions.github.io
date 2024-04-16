@@ -4,7 +4,7 @@ title: Cruise Ship Service on Snæfellsnes
 duration: 3 to 5 hours
 image: /assets/images/tours/cruise/ship.jpg
 active: false
-order: 1
+order: 10
 short_description: Shore excursions from Grundarfjörður and Snæfellsnes ports
 ---
 **Are you taking a cruise to Iceland?** 

@@ -4,7 +4,7 @@ title: Viking Sushi Adventure Tour from Stykkishólmur
 intro: A unique adventure sailing through the waters of Breiðafjörður
 duration: 2,5 hours
 image: /assets/images/tours/viking-sushi/viking-sushi.jpg
-order: 4
+order: 40
 active: true
 short_description: A sailing adventure...with a twist 
 bokun_id: 859741
