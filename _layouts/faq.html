@@ -9,7 +9,8 @@ layout: default
 
   <div class="inner">
     <div class="faq-list">
-      {% for item in site.faq | sort: 'order'  %}
+      {%- assign faq = site.faq | sort: 'order' %}
+      {% for item in faq %}
       <button type="button" class="button faq-btn">
         <span class="faq-q">
         {{ item.title }}
