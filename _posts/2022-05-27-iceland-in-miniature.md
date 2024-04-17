@@ -56,7 +56,7 @@ Despite it being deemed an impossible task, the two berserkers were able to comp
 The way across the lava field is a **gravel track** that is not difficult to drive on. You will see mountains, lava formations, old craters and small lakes along the way.
 The roadway is pedestrian and vehicle-friendly and there are a few spots along the way from where you can really get fantastic views over the surrounding lava field and feel one with this spectacular nature. 
 
-To visit Berserkjahraun, you can join one of our [tailored private tours]({% link _tours/west-tour.md %}) and enjoy the beauty and tranquillity of the field. 
+If you want to visit Berserkjahraun, we can arrange a private tour for you to enjoy the beauty and tranquillity of the field. 
 
 If the stench of fermented shark, *hákarl* in Icelandic, doesn't put you off, you may visit the **Bjarnarhöfn Shark Museum** just across the lava field. This is the only place in Iceland where this classic Icelandic delicacy is still produced, and it may be worth a visit if you are in the area. Here you will learn all about this old Icelandic tradition and get to taste the infamous **Hákarl**.
 
@@ -85,7 +85,7 @@ The glacier can be seen from the road as you go around Snæfellsnes. It is not u
 From Arnarstapi, Hellissandur, or Ólafsvík, you can get great **panoramic views of the glacier** and capture some excellent photos of it.
 Our favorite photo opportunity? It must be from **Svöðufoss**, a relatively unknown waterfall on Snæfellsnes with Snæfellsjökull in the background.
 
-There is also an exciting mountain pass, an F-road, that cuts Snæfellsnes from north to south and runs along Snæfellsjökull. On a [private tour of Snæfellsnes]({% link _tours/west-tour.md %}), while we are not able to drive on the glacier itself with our jeep, we can absolutely drive on that F-road and take you close to the glacier, while also giving you fantastic views of the surrounding area.
+There is also an exciting mountain pass, an F-road, that cuts Snæfellsnes from north to south and runs along Snæfellsjökull. On a private tour, while we are not able to drive on the glacier itself with our jeep, we can absolutely drive on that F-road and take you close to the glacier, while also giving you fantastic views of the surrounding area.
 
 <span class="image fit"><img src="/assets/images/blogs/iceland-in-miniature/glacier.jpg" alt="" /></span>
 
