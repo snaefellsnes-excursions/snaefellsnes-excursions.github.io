@@ -97,7 +97,7 @@
 		});
 
 	// Menu.
-		$('<a href="#navPanel" class="navPanelToggle">Menu</a>')
+		$('<a href="#navPanel" class="navPanelToggle"></a>')
 			.appendTo($header);
 
 		$(	'<div id="navPanel">' +
