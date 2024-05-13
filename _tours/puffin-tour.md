@@ -4,7 +4,7 @@ title: Puffin Tour from Grundarfjörður
 intro: Discover the Enchanting World of Puffins on the Puffin Tour in Grundarfjörður
 duration: 1-1,5 hours
 image: /assets/images/tours/puffin-tour/puffin.jpg
-order: 45
+order: 60
 active: true
 short_description: Observe the charming puffins up close
 bokun_id: 869991
