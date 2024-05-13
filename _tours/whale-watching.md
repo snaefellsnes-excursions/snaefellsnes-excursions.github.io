@@ -10,10 +10,14 @@ short_description: Meet the gentle giants of the ocean on Snæfellsnes
 bokun_id: 869980
 ---
 
-Embark on a breathtaking journey from the picturesque **Snæfellsnes Peninsula**, a prime location for encountering Iceland's marine giants such as **orcas** and **sperm whales**. 
+Embark on a breathtaking journey into the heart of the North Atlantic with our **whale watching tour** departing from the picturesque village of **Ólafsvík**, located on the **Snæfellsnes Peninsula**. This area is renowned as one of the prime locations for encountering Iceland's majestic marine giants. From the powerful **orcas** to the magnificent **sperm whales**, the waters here are a haven for some of the ocean's most awe-inspiring creatures. Our tours are conducted in partnership with a local expert company and provide a unique platform to observe these magnificent creatures as they thrive in their natural habitat.
 
-Our **whale watching tours**, available from February to September, are conducted in partnership with a local expert company and offer a unique opportunity to witness these magnificent creatures in their natural habitat. Keep an eye out for humpback whales, pilot whales, Minke whales, and dolphins during our intimate 2 to 3.5-hour excursions.
+During our intimate 2 to 3.5-hour excursions, you'll have the chance to witness a variety of species including the graceful humpback whales, elusive pilot whales, Minke whales, and playful dolphins. Each sighting offers a thrilling glimpse into the lives of these spectacular animals and promises unforgettable moments.
 
-Guided by our knowledgeable crew, fluent in English, you will gain fascinating insights into the lives of these majestic animals while ensuring your adventure is both comfortable and safe. We recommend dressing warmly and being prepared for variable weather conditions, which can occasionally influence tour schedules.
+Our excursions are guided by a knowledgeable and passionate crew, fluent in English, who are dedicated to providing you with fascinating insights into the behaviors and characteristics of these marine giants. Our guides' expertise and enthusiasm will enrich your experience, making your adventure both educational and thoroughly enjoyable.
 
-Booking this whale watching experience not only promises a memorable expedition but also supports sustainable and respectful wildlife watching practices. In the rare event that no whales or dolphins are sighted, we offer a reschedule ticket for another day, ensuring every effort is made to make your visit rewarding.
+Safety and comfort are paramount on our tours. We equip our boats with the necessary amenities to ensure a smooth and comfortable journey, even in the unpredictable Icelandic weather. We recommend dressing warmly and being prepared for variable conditions, as the weather can change quickly at sea.
+
+Booking a whale watching tour from Ólafsvík not only promises a memorable expedition but also supports sustainable and respectful wildlife watching practices. We are committed to the ethical observation of wildlife, ensuring minimal impact on the natural behavior of the animals. In the event that no whales or dolphins are sighted, we offer a reschedule ticket for another day, guaranteeing that every effort is made to ensure your visit is rewarding and impactful.
+
+As you sail back to Ólafsvík, reflect on the day's encounters and the spectacular natural scenery that makes the Snæfellsnes Peninsula a magical place to visit. 
