@@ -1,12 +1,13 @@
 ---
 layout: tour
 title: Shark Museum and Stykkishólmur Tour
+intro: A journey through the heart of Iceland's rich sagas and traditions
 duration: 3 hours
 image: /assets/images/tours/west-tour/stykkisholmur.jpg
 active: true
 cancellation: true
 order: 20
-short_description: A short tour to experience West Snæfellsnes
+short_description: An unforgettable blend or nature and culture
 bokun_id: 833356
 practical_info:
   Price: |
@@ -24,7 +25,7 @@ min_pax: 10
 
 Embark on a fascinating journey through the heart of Iceland's rich sagas and captivating traditions with our uniquely crafted tour. Starting in the tranquil village of **Grundarfjörður**, nestled at the foot of the iconic **Kirkjufell**, our adventure promises a seamless blend of rugged landscapes and intriguing stories. 
 
-As we make our way towards **West Snæfellsnes**, we will catch a sight of the majestic Kirkjufell, the church mountain. At the **Kolgrafarfjörður viewpoint**, we pause to take in the breath-taking view over the fjord. We then proceed via a bridge that extends out over the fjord, from which, if you are lucky, you may see some wildlife. 
+As we start our journey, we will catch a sight of the majestic Kirkjufell, the church mountain. At the **Kolgrafarfjörður viewpoint**, we pause to take in the breath-taking view over the fjord. We then proceed via a bridge that extends out over the fjord, from which, if you are lucky, you may see some wildlife. 
 
 <span class="image fit"><img src="/assets/images/tours/west-tour/kolgrafarfjordur.jpg" alt="" /></span>
 

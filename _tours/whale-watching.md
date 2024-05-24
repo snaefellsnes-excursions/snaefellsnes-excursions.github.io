@@ -21,3 +21,5 @@ Safety and comfort are paramount on our tours. We equip our boats with the neces
 Booking a whale watching tour from Ólafsvík not only promises a memorable expedition but also supports sustainable and respectful wildlife watching practices. We are committed to the ethical observation of wildlife, ensuring minimal impact on the natural behavior of the animals. In the event that no whales or dolphins are sighted, we offer a reschedule ticket for another day, guaranteeing that every effort is made to ensure your visit is rewarding and impactful.
 
 As you sail back to Ólafsvík, reflect on the day's encounters and the spectacular natural scenery that makes the Snæfellsnes Peninsula a magical place to visit. 
+
+**Please note**: This tour starts in Ólafsvík. Transfers from other locations are not included.

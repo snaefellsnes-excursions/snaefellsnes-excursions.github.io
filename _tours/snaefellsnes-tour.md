@@ -7,7 +7,7 @@ image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 30
 active: true
 cancellation: true
-short_description: Discover the best of Snæfellsnes on our popular bus tour
+short_description: Explore the best of Snæfellsnes on our popular bus tour
 practical_info:
   Price: |
         18.000 ISK per person for adults
@@ -49,4 +49,3 @@ Alternatively, we offer a comfortable drive back to the harbor, ensuring you ret
 Our local drivers and knowledgeable tour guides will make sure you have a great time while learning about the nature and history of the Snæfellsnes Peninsula. 
 
 Are you looking for a shorter tour from Grundarfjörður? Check out our **[Shark Museum and Stykkishólmur Bus Tour]({% link _tours/west-tour.md %})**. 
-

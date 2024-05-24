@@ -22,3 +22,5 @@ The Viking Sushi Tour is not only an excursion but an educational journey into I
 Suitable for any season, our tours offer an unrivaled opportunity to engage with the natural wonders of Iceland. Whether you’re a history buff intrigued by Viking heritage or a foodie eager to sample the freshest sushi you’ll ever have, this tour promises an unforgettable adventure.
 
 To secure your spot on this popular Stykkishólmur tour, book now and prepare for an Icelandic voyage that tantalizes all the senses. Don't miss out on the chance to connect with nature and indulge in the bounty of Breiðafjörður Bay.
+
+**Please note**: This tour starts in Stykkishólmur. Transfers from other locations are not included.

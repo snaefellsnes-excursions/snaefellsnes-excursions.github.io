@@ -25,3 +25,5 @@ At the end of this spectacular **sightseeing tour**, we take you back to Arnarst
 Embark on more than just a tour; it's an expedition that offers a profound connection with Iceland’s raw and untamed beauty. 
 
 The **Snæfellsjökull Snow Cat Adventure** is designed for those looking to immerse themselves in the majesty and mystique of Iceland without strenuous hiking. Operated in partnership with a seasoned local tour company, this adventure invites you to discover the magic of Iceland's Snæfellsjökull Glacier with us and take home memories that last a lifetime.
+
+**Please note**: This tour starts in Arnarstapi. Transfers from other locations are not included.
