@@ -45,7 +45,7 @@ As you venture deeper, discover a breathtaking **panoramic viewpoint** that offe
 This exclusive tour culminates at the tranquil **Lava Resort**, situated on the southern part of Snæfellsnes Peninsula, within ancient lava fields.
 Here, you are invited to engage in an enchanting **walk through the lava fields**, guided by a local storyteller that will share her knowledge on the the mythical **Hidden People** of Iceland and **folkloric tales** that animate this landscape, providing a deeper connection to the mystical Icelandic environment.
 
-After the walk, refresh with **light snacks** and enjoy a **geothermal bath**, central to Icelandic wellness traditions. A sauna us also avilable, as well as a cold lake for those looking to cool down after the hot tub.
+After the walk, refresh with **light snacks** and enjoy a **geothermal bath**, central to Icelandic wellness traditions. A sauna is also avilable, as well as a cold lake for those looking to cool down after the hot tub.
 
 <span class="image fit"><img src="/assets/images/tours/lava-resort/hot-tub.jpeg" alt="" /></span>
 
