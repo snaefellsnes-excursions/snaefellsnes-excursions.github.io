@@ -6,7 +6,7 @@ duration: 3 hours
 image: /assets/images/tours/west-tour/stykkisholmur.jpg
 active: true
 cancellation: true
-order: 20
+order: 30
 short_description: An unforgettable blend or nature and culture
 bokun_id: 833356
 practical_info:

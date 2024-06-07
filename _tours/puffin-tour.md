@@ -5,7 +5,7 @@ intro: Discover the Enchanting World of Puffins on the Puffin Tour in Grundarfj√
 duration: 1-1,5 hours
 image: /assets/images/tours/puffin-tour/puffin.jpg
 order: 60
-active: true
+active: false
 short_description: Observe the charming puffins up close
 bokun_id: 869991
 ---

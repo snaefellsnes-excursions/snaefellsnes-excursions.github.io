@@ -4,7 +4,7 @@ title: Scenic Snæfellsnes Bus Tour
 intro: An introduction some of the best attractions on Snæfellsnes
 duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
-order: 30
+order: 20
 active: true
 cancellation: true
 short_description: Explore the best of Snæfellsnes on our popular bus tour
@@ -41,8 +41,7 @@ Continuing along the winding road of the Snæfellsnes Peninsula, discover the **
 
 The grand finale awaits at **Kirkjufell**, an iconic peak that has captured the attention of photographers worldwide. Marvel at its cone-shaped silhouette elegantly rising above the earth, with cascading waterfalls adding an ethereal touch. Game of Thrones enthusiasts may recognize this mystical location as the "arrow-head mountain". Capture the perfect shot of **Kirkjufellsfoss**, the waterfall, gracefully dancing in harmony with the mountain's grandeur.
 
-After enjoying your time in the Kirkjufell area, you have the option of walking back to the village of Grundarfjörður, a mere 2.5 km/1.5 mi away. 
-Alternatively, we offer a comfortable drive back to the harbor, ensuring you return in ample time to embark on your ship, with memories that will forever linger in your heart.
+After some time in the Kirkjufell area, we offer a comfortable drive back to the harbor, ensuring you return in ample time to embark on your ship, with memories that will forever linger in your heart.
 
 <span class="image fit"><img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="" /></span>
 
