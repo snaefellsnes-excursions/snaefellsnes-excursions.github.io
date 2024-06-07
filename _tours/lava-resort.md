@@ -3,7 +3,7 @@ layout: tour
 title: Lava Resort Escape
 intro: Discover Iceland's folklore and relax with a geothermal bath surrounded by lava fields 
 duration: 4 hours
-image: /assets/images/tours/lava-resort/lava-resort-view.JPG
+image: /assets/images/tours/lava-resort/lava-resort-view.jpg
 order: 15
 active: true
 cancellation: true
