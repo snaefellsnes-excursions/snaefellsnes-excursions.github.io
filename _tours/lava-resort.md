@@ -26,7 +26,7 @@ practical_info:
 
         It is advisable to bring slippers.
 
-        You will get a sandwich and coffee at the Lava Resort.         
+        You will get a sandwich and coffee at the Lava Resort. Additional food or drinks are not included.          
 bokun_id: 873498
 ---
 
