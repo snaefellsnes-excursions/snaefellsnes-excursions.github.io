@@ -2,8 +2,10 @@
 title: Where do your cruise excursions from Grundarfjörður start and end?
 order: 40
 ---
-Typically, our cruise excursions start from our <a target="_blank" href="https://maps.app.goo.gl/P2p4MGjPWBc1iUNo6">**Snæfellsnes Excursions Office**</a>, at Sólvellir 5, Grundarfjörður. 
+Our cruise excursions start from the harbout in Grundarfjörður. 
 
-Our office is just 350 meters (about 1150 feet) or a short 5-minute walk from the Grundarfjörður harbour, making it very convenient for you to reach us. 
+The meeting point for your tour is located on the harbour, directly to the right of where you disembark from the ship or tender.
 
-OUr tours end at Grundarfjörður harbour, to make it easier for you to return promptly to your ship. 
+You should look for a small black bus, which will serve as our temporary office on the harbour.
+
+Our tours end at Grundarfjörður harbour, to make it easier for you to return promptly to your ship. 

@@ -12,7 +12,7 @@ practical_info:
   Price: |
         31.675 ISK per person
   Minimum Age: 16 years old
-  Departure Location: Snæfellsnes Excursions Office in Sólvellir 5, Grundarfjörður, Iceland. <a target="_blank" href="https://maps.app.goo.gl/KdZbVryXgrCspRjQ8">See map</a>
+  Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 4 hours
   Group Size: Maximum 15 people

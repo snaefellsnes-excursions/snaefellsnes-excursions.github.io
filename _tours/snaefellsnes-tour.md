@@ -14,7 +14,7 @@ practical_info:
 
         14.500 ISK per person for children (6-15)
   Minimum Age: 6 years old
-  Departure Location: Snæfellsnes Excursions Office in Sólvellir 5, Grundarfjörður, Iceland. <a target="_blank" href="https://maps.app.goo.gl/KdZbVryXgrCspRjQ8">See map</a>
+  Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 5 hours
   Group Size: Up to 59 people on the bus
