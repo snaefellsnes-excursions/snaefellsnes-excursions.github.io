@@ -47,4 +47,4 @@ After some time in the Kirkjufell area, we offer a comfortable drive back to the
 
 Our local drivers and knowledgeable tour guides will make sure you have a great time while learning about the nature and history of the Snæfellsnes Peninsula. 
 
-Are you looking for a shorter tour from Grundarfjörður? Check out our **[Shark Museum and Stykkishólmur Bus Tour]({% link _tours/west-tour.md %})**. 
+Are you looking for a shorter tour from Grundarfjörður? Check out our **[Snæfellsnes Short Tour]({% link _tours/express.md %})**. 
