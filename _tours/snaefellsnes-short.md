@@ -2,7 +2,7 @@
 layout: tour
 title: Snæfellsnes Short Tour
 intro: A short tour to discover some of Snæfellsnes' gems
-duration: 3,5 - 4 hours
+duration: 3,5 hours
 image: /assets/images/tours/express-tour/bus-and-glacier.jpg
 order: 25
 active: true
@@ -16,7 +16,7 @@ practical_info:
   Minimum Age: 6 years old
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
-  Duration: 3.5 to 4 hours
+  Duration: 3.5 hours
   Group Size: Up to 59 people on the bus
   Distance Driven: 131 km/ 81 mi
 bokun_id: 894765
