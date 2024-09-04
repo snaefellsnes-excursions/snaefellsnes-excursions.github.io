@@ -6,7 +6,7 @@ duration: 4 hours
 image: /assets/images/tours/lava-resort/lava-resort-view.jpg
 order: 31
 active: true
-cancellation: true
+cancellation: false
 short_description: NEW Exclusive journey to unwind in the Lava Resort
 practical_info:
   Price: |
