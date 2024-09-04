@@ -1,22 +1,30 @@
 ---
 layout: tour
-title: Cruise Ship Service on Snæfellsnes
+title: Cruise Ship Tours on Snæfellsnes
 duration: 3 to 5 hours
 image: /assets/images/tours/cruise/ship.jpg
-active: false
+active: true
 order: 10
-short_description: Shore excursions from Grundarfjörður and Snæfellsnes ports
+short_description: Shore excursions from Grundarfjörður port
 ---
-**Are you taking a cruise to Iceland?** 
+**Discover Snæfellsnes with Our Exclusive Cruise Ship Shore Excursions!** 
 
-Discover the wonders of Snæfellsnes with Snæfellsnes Excursions, your trusted partner with extensive experience in collaborating with cruise lines. Offering captivating **shore excursions for cruise ship passengers** departing from **Grundarfjörður**, we also organize tours from other ports on the picturesque Snæfellsnes Peninsula, including **Stykkishólmur**, **Ólafsvík**, and **Arnarstapi**.
+Welcome to Grundarfjörður, a picturesque port town in Iceland, where your adventure on Snæfellsnes begins! 
 
-Join our recommended bus tours, the **[Scenic Snæfellsnes Tour]({% link _tours/snaefellsnes-tour.md %})**  and the **[Shark Museum and Stykkishólmur tour]({% link _tours/west-tour.md %})**. For a more personalized experience, we can tailor private tours to your preferences—all designed to seamlessly fit within your cruise's stop-over time.
+With years of experience in organizing unforgettable trips, we specialize in arranging unique and memorable **Grundarfjörður port excursions** for cruise ship passengers arriving at the port of Grundarfjörður. 
 
-Embark on our shore excursions from Grundarfjörður and immerse yourself in the breathtaking landscapes of the Snæfellsnes Peninsula. Our expert guides will share captivating tales of the region's rich history and culture, ensuring an enriching and memorable journey.
+Whether you're looking to explore the stunning Kirkjufell mountain, visit breathtaking sea cliffs, or experience the rich local culture, our Grundarfjörður port excursions offer the perfect shore experiences tailored just for you.
 
-In addition to our shore excursions, we provide convenient bus rental services and transportation between towns on Snæfellsnes. This service is ideal for those participating in activities or excursions located beyond their port of call.
+**Why Choose Our Grundarfjörður Port Excursions?**
+- **Years of Expertise**: With years of experience in providing top-quality Grundarfjörður port excursions for cruise passengers, you can trust us to deliver a memorable experience.
+- **Convenient Pick-Up**: Our Grundarfjörður port excursions start right at the port of Grundarfjörður, making it easy and hassle-free for cruise passengers.
+- **Local Knowledge**: Our knowledgeable guides offer insightful stories and facts about the region during your Grundarfjörður port excursions, ensuring an unforgettable experience.
+- **Customizable Options**: Choose from a range of Grundarfjörður port excursions to suit your interests and schedule. We can also tailor private tours to seamlessly fit with yout cruise's stop-over time. 
 
-For cruise ship passengers eager to explore Snæfellsnes, reach out to us for inquiries, and we'll be delighted to assist you. Don't forget to explore our [blog]({% post_url 2022-05-27-iceland-in-miniature %}) for inspiring ideas on must-visit destinations in Snæfellsnes.
+If you are a cruise ship passengers to **Grundarfjörður port** and want to explore the stunning Snæfellsnes Peninsula, [Reach out to us](https://rutuferdir.is/#contact) for inquiries-we'll be delighted to assist you. 
+
+Don't forget to explore our [blog]({% post_url 2022-05-27-iceland-in-miniature %}) for inspiring ideas on must-visit destinations in Snæfellsnes.
+
+Book your Grundarfjörður port excursion today and make the most of your time in Iceland. With our expertise and passion for travel, we look forward to welcoming you and showing you the beauty of Snæfellsnes!
 
 <span class="image fit"><img src="/assets/images/tours/cruise/cruiseship.jpg" alt="" /></span>
