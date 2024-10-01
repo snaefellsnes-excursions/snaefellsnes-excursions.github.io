@@ -1,13 +1,13 @@
 ---
 layout: tour
 title: Snæfellsnes Short Tour with Audio Guide
-intro: A short tour to discover some of Snæfellsnes' gems
+intro: A short tour to discover some of Snæfellsnes' highlights
 duration: 3,5 hours
 image: /assets/images/tours/express-tour/bus-and-glacier.jpg
 order: 25
 active: true
 cancellation: true
-short_description: A brief tour to discover Snæfellsnes' highlights
+short_description: An introductory tour to the Highlights of Snæfellsnes
 practical_info:
   Price: |
         13.000 ISK per person for adults
