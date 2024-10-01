@@ -5,7 +5,7 @@ intro: Discover Iceland's folklore and relax with a geothermal bath surrounded b
 duration: 4 hours
 image: /assets/images/tours/lava-resort/lava-resort-view.jpg
 order: 31
-active: true
+active: false
 cancellation: false
 short_description: NEW Exclusive journey to unwind in the Lava Resort
 practical_info:
