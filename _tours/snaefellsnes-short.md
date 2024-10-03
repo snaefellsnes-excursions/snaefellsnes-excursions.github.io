@@ -48,3 +48,5 @@ After visiting Kirkjufell, we’ll return you to Grundarfjörður port with plen
 With our experienced guides and timely schedule, the Snæfellsnes Short Tour is the perfect option for cruise passengers looking to experience some of the highlights of Iceland while docked in Grundarfjörður. Enjoy a memorable Icelandic adventure in a convenient and time-efficient manner.
 
 If you are not in a hurry, we also offer a loinger version of this tour, our best seller 5-hour **[Scenic Snæfellsnes Tour]({% link _tours/snaefellsnes-tour.md %})**. 
+
+For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#contact). 
