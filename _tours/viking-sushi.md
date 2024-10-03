@@ -23,4 +23,4 @@ Suitable for any season, our tours offer an unrivaled opportunity to engage with
 
 To secure your spot on this popular Stykkishólmur tour, book now and prepare for an Icelandic voyage that tantalizes all the senses. Don't miss out on the chance to connect with nature and indulge in the bounty of Breiðafjörður Bay.
 
-**Please note**: This tour starts in Stykkishólmur. Transfers from other locations are not included.
+**Please note: This tour starts in Stykkishólmur. Transfers from other locations are not included.**

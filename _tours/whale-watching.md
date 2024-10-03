@@ -22,4 +22,4 @@ Booking a whale watching tour from Ólafsvík not only promises a memorable expe
 
 As you sail back to Ólafsvík, reflect on the day's encounters and the spectacular natural scenery that makes the Snæfellsnes Peninsula a magical place to visit. 
 
-**Please note**: This tour starts in Ólafsvík. Transfers from other locations are not included.
+**Please note: This tour starts in Ólafsvík. Transfers from other locations are not included.**
