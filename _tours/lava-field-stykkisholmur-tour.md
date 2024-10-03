@@ -18,6 +18,7 @@ practical_info:
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 3 hours
+  Guide: The tour is guided in English
   Group Size: Up to 19 people on a minibus
   Distance Driven: 85 km/ 53 mi
 min_pax: 10
