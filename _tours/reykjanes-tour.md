@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Volcanic Landscapes of Reykjanes
+title: Volcanic Landscapes of Reykjanes from Reykjavik Port
 intro: A fascinating journey discovering Iceland's volcanic history
 duration: 6 hours
 image: /assets/images/tours/reykjanes-tour/gunnuhver-hot-spring.jpg
