@@ -17,7 +17,10 @@ practical_info:
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 3.5 hours
-  Guide: Onboard audio guide in English
+  Inclusions: |
+        Onboard audio guide in English
+        
+        Free Wi-Fi on the bus
   Group Size: Up to 19 people on the bus
   Distance Driven: 131 km/ 81 mi
 bokun_id: 894765

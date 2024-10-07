@@ -17,7 +17,10 @@ practical_info:
   Departure Location: Reykjavik Cruise Terminal, in the parking lot by Skarfabakki 312
   Drop-off Location: Reykjavik Cruise Terminal
   Duration: Approximately 6 hours
-  Guide: The tour is guided in English 
+  Inclusions: |
+        English-speaking Tour Guide
+        
+        Free Wi-Fi on the bus
   Group Size: Up to 49 people on the bus
 bokun_id: 921597
 min_pax: 20

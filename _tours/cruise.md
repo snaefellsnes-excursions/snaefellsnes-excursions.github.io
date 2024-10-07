@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: Cruise Ship Tours from Grundarfjörður and Reykjavík Port
-duration: 3 to 5 hours
+duration: 3 to 6 hours
 image: /assets/images/tours/cruise/ship.jpg
 active: true
 order: 10

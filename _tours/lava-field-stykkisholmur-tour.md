@@ -7,7 +7,7 @@ image: /assets/images/tours/west-tour/lava.jpg
 active: true
 cancellation: true
 order: 31
-short_description: An unforgettable blend or nature and culture
+short_description: An unforgettable blend of nature and culture
 bokun_id: 921410
 practical_info:
   Price: |
@@ -18,7 +18,12 @@ practical_info:
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
   Duration: Approximately 3 hours
-  Guide: The tour is guided in English
+  Inclusions: |
+        English-speaking Tour Guide
+        
+        Fermented Shark Tasting
+        
+        Free Wi-Fi on the bus
   Group Size: Up to 19 people on a minibus
   Distance Driven: 85 km/ 53 mi
 min_pax: 10
