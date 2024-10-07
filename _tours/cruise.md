@@ -1,30 +1,42 @@
 ---
 layout: tour
-title: Cruise Ship Tours from Grundarfjörður Port
+title: Cruise Ship Tours from Grundarfjörður and Reykjavík Port
 duration: 3 to 5 hours
 image: /assets/images/tours/cruise/ship.jpg
 active: true
 order: 10
-short_description: Shore excursions from Grundarfjörður port
+short_description: Shore excursions from Grundarfjörður and Reykjavík port
 ---
-**Discover Snæfellsnes with Our Exclusive Cruise Ship Shore Excursions!** 
+**Discover Iceland with Our Exclusive Cruise Ship Shore Excursions!** 
 
-Welcome to Grundarfjörður, a picturesque port town in Iceland, where your adventure on Snæfellsnes begins! 
+Welcome to Iceland!
 
-With years of experience in organizing unforgettable trips, we specialize in arranging unique and memorable **Grundarfjörður port excursions** for cruise ship passengers arriving at the port of Grundarfjörður. 
+With years of experience in organizing unforgettable trips, we specialize in offering unique and memorable **shore excursions for cruise ship passengers**.
 
-Whether you're looking to explore the stunning Kirkjufell mountain, visit breathtaking sea cliffs, or experience the rich local culture, our Grundarfjörður port excursions offer the perfect shore experiences tailored just for you.
+In addition to our **Grundarfjörður port excursions**, we are excited to offer **Reykjanes Peninsula tours** for passengers arriving at **Reykjavík port**. Whether you’re docking in **Grundarfjörður** or **Reykjavík**, we’ve crafted the perfect itineraries for you to explore the stunning natural beauty and volcanic wonders of Iceland.
 
-**Why Choose Our Grundarfjörður Port Excursions?**
-- **Years of Expertise**: With years of experience in providing top-quality Grundarfjörður port excursions for cruise passengers, you can trust us to deliver a memorable experience.
-- **Convenient Pick-Up**: Our Grundarfjörður port excursions start right at the port of Grundarfjörður, making it easy and hassle-free for cruise passengers.
-- **Local Knowledge**: Our knowledgeable guides offer insightful stories and facts about the region during your Grundarfjörður port excursions, ensuring an unforgettable experience.
-- **Customizable Options**: Choose from a range of Grundarfjörður port excursions to suit your interests and schedule. We can also tailor private tours to seamlessly fit with yout cruise's stop-over time. 
+**Grundarfjörður Port Excursions**
 
-If you are a cruise ship passengers to **Grundarfjörður port** and want to explore the stunning Snæfellsnes Peninsula, [Reach out to us](https://rutuferdir.is/#contact) for inquiries-we'll be delighted to assist you. 
+For those arriving in **Grundarfjörður port**, we offer three different shore excursion options to explore the magical **Snæfellsnes Peninsula**.
+- **[Scenic Snæfellsnes Tour]({% link _tours/snaefellsnes-tour.md %})**: A fantastic journey through some of the main highlights of the peninsula, including the iconic **Kirkjufell mountain** and stunning **sea cliffs**. This tour is perfect for those wanting to explore the beauty of Snæfellsnes in depth. 
+- **[Snæfellsnes Short Tour]({% link _tours/snaefellsnes-short.md %})**: A shorter introduction to Snæfellsnes, this tour covers the most prominent highlights, offering a well-rounded snapshot of the region’s breathtaking landscapes.
+- **[Berserkjahraun Lava Field and Stykkishólmur Tour ]({% link _tours/lava-field-stykkisholmur-tour.md %})**: A unique experience for those looking to discover beautiful lava fields and the charming coastal town of Stykkishólmur. 
 
-Don't forget to explore our [blog]({% post_url 2022-05-27-iceland-in-miniature %}) for inspiring ideas on must-visit destinations in Snæfellsnes.
+**Reykjavík Port Excursions**
 
-Book your Grundarfjörður port excursion today and make the most of your time in Iceland. With our expertise and passion for travel, we look forward to welcoming you and showing you the beauty of Snæfellsnes!
+If you're docking at **Reykjavík's Skarfabakki Port**, join us for a fascinating tour of the **[Reykjanes Peninsula.]({% link _tours/reykjanes-tour.md %})**
+
+**Reykjanes Peninsula**, an area known for its dramatic volcanic landscapes and recent eruptions. This lesser-explored region of Iceland provides a unique opportunity to see fresh lava fields, steaming hot springs, and more, all while avoiding the larger tourist crowds.
+
+**Why Choose Us for Your Shore Excursions?**
+- **Local Expertise**: As a locally-owned and operated company, we have an intimate knowledge of Iceland and its hidden gems, providing you with a truly authentic experience.
+- **Years of Experience**: With extensive experience providing exceptional tours for cruise passengers, you can trust us to deliver an unforgettable adventure from the ports of Grundarfjörður and Reykjavík. 
+- **Convenient Pick-Up**: Whether you’re arriving at **Reykjavík port** or **Grundarfjörður port**, we offer hassle-free pick-up directly from the harbour.
+- **Local Knowledge**: Our guides are passionate about Iceland and will share fascinating stories and facts about each location.
+- **Customizable Options**: Our excursions are designed to fit your schedule, and we also offer private tours tailored to your interests and cruise timetable. 
+
+[Contact us](https://rutuferdir.is/#contact) for inquiries-we'll be delighted to assist you. 
+
+Book your Reykjavik or Grundarfjörður port excursion today, and let us show you the wonders of Iceland!
 
 <span class="image fit"><img src="/assets/images/tours/cruise/cruiseship.jpg" alt="" /></span>
