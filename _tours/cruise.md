@@ -1,7 +1,7 @@
 ---
 layout: tour
 title: Cruise Ship Tours from Grundarfjörður Port
-duration: 3 to 6 hours
+duration: 3 to 5 hours
 image: /assets/images/tours/cruise/ship.jpg
 active: true
 order: 10
