@@ -5,7 +5,7 @@ intro: A fascinating journey discovering Iceland's volcanic history
 duration: 6 hours
 image: /assets/images/tours/reykjanes-tour/gunnuhver-hot-spring.jpg
 order: 35
-active: true
+active: false
 cancellation: true
 short_description: Explore fascinating volcanic landscapes away from the crowds
 practical_info:
