@@ -21,7 +21,7 @@ practical_info:
         Onboard audio guide in English
         
         Free Wi-Fi on the bus
-  Group Size: Up to 19 people on the bus
+  Group Size: Up to 26 people on the bus
   Distance Driven: 131 km/ 81 mi
 bokun_id: 894765
 ---
