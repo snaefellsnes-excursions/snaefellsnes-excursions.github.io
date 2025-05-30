@@ -40,8 +40,6 @@ We then head to the picturesque village of **Arnarstapi**, where you'll have tim
 
 <span class="image fit"><img src="/assets/images/tours/express-tour/arnarstapi-arch.jpg" alt="" /></span>
 
-Next, we embark on a scenic drive through **Fróðarheiði**, a picturesque mountain pass that offers panoramic views of Iceland's natural beauty. This route showcases the unique terrains and landscapes of the Snæfellsnes Peninsula, offering glimpses of volcanic formations and vast open plains.
-
 Our final destination is the iconic **Kirkjufell**, one of Iceland’s most photographed mountains. Its distinctive shape, combined with the nearby **Kirkjufellsfoss waterfall**, provides an unforgettable setting for picturesque moments and a tranquil encounter with Iceland’s natural beauty.
 
 <span class="image fit"><img src="/assets/images/tours/express-tour/kirkjufell-express.jpg" alt="" /></span>
