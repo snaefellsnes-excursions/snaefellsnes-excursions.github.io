@@ -1,6 +1,6 @@
 ---
 layout: tour
-title: Gönguferð
+title: Gönguferð, Grundarfjörður til Lísuhól
 intro: Ævintýralega göngu um stórbrotna íslenska náttúru þann 14. júní
 duration: 6-8 hours
 image: /assets/images/tours/gonguferd/grundarfoss.jpg
