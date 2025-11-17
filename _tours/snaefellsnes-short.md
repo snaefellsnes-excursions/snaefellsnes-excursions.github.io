@@ -1,8 +1,8 @@
 ---
 layout: tour
-title: Snæfellsnes Short Tour with Audio Guide
-intro: A short tour to discover some of Snæfellsnes' highlights
-duration: 3,5 hours
+title: Highlights of Snæfellsnes Audio Guided Tour
+intro: A budget-friendly tour to discover some of Snæfellsnes' highlights
+duration: 4 hours
 image: /assets/images/tours/express-tour/bus-and-glacier.jpg
 order: 24
 active: true
@@ -16,7 +16,7 @@ practical_info:
   Minimum Age: 6 years old
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
-  Duration: Approximately 3.5 hours
+  Duration: 4 hours
   Inclusions: |
         Onboard audio guide in English
         
@@ -26,7 +26,7 @@ practical_info:
 bokun_id: 894765
 ---
 
-Join us for the **Snæfellsnes Short Tour**, specially designed for cruise ship passengers arriving at **Grundarfjörður port**. This shore excursion is an excellent opportunity to explore the breathtaking highlights of the **Snæfellsnes Peninsula** within a limited timeframe, ensuring you return to the harbor well before your cruise ship's departure.
+Join us for our **Highlights of Snæfellsnes Audio Guided Tour**, specially designed for cruise ship passengers arriving at **Grundarfjörður port**. This shore excursion is an excellent opportunity to explore the breathtaking highlights of the **Snæfellsnes Peninsula** within a limited timeframe, ensuring you return to the harbor well before your cruise ship's departure.
 
 Throughout the tour, the **onboard audioguide** will provide fascinating facts and stories about each destination, allowing you to fully appreciate the history, culture, and geology of the Snæfellsnes Peninsula.
 
@@ -46,7 +46,7 @@ Our final destination is the iconic **Kirkjufell**, one of Iceland’s most phot
 
 After visiting Kirkjufell, we’ll return you to Grundarfjörður port with plenty of time to board your ship or explore the town.
 
-With a small bus ensuring a more intimate experience and a timely schedule, our **Snæfellsnes Short Tour** is the perfect option for cruise passengers looking to experience some of the highlights of Iceland while docked in Grundarfjörður. Enjoy a memorable Icelandic adventure in a convenient and time-efficient manner.
+With a small bus ensuring a more intimate experience and a timely schedule, our **Highlights of Snæfellsnes Audio Guided Tour** is the perfect option for cruise passengers looking to experience some of the highlights of Iceland while docked in Grundarfjörður. Enjoy a memorable Icelandic adventure in a convenient and time-efficient manner.
 
 If you are not in a hurry, we also offer a loinger version of this tour, our best seller 5-hour **[Scenic Snæfellsnes Tour]({% link _tours/snaefellsnes-tour.md %})**. 
 

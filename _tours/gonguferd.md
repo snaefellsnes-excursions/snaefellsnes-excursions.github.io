@@ -4,7 +4,7 @@ title: Gönguferð, Grundarfjörður til Lýsuhól
 intro: Ævintýralega göngu um stórbrotna íslenska náttúru þann 26. júli
 duration: 6-8 hours
 image: /assets/images/tours/gonguferd/grundarfoss.jpg
-active: true
+active: false
 cancellation: true
 order: 25
 short_description: Gönguferð frá Grundarfirði yfir í Lýsuhólslaug um fjölbreytt og krefjandi landslag með reyndum fararstjóra

@@ -16,14 +16,14 @@ practical_info:
   Minimum Age: 6 years old
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
-  Duration: Approximately 5 hours
+  Duration: 5 hours
   Inclusions: |
         English-speaking Tour Guide 
         
         Entrance Fee to the Maritime Museum in Hellissandur
         
         Free Wi-Fi on the bus
-  Group Size: Up to 59 people on the bus
+  Group Size: Up to 49 people on the bus
   Distance Driven: 145 km/ 90 mi
 bokun_id: 833852
 ---
@@ -53,6 +53,6 @@ After some time in the Kirkjufell area, we offer a comfortable drive back to the
 
 Our local drivers and knowledgeable tour guides will make sure you have a great time while learning about the nature and history of the Snæfellsnes Peninsula. 
 
-Are you looking for a shorter tour from Grundarfjörður? Check out our **[Snæfellsnes Short Tour]({% link _tours/snaefellsnes-short.md %})**. 
+Are you looking for a shorter tour from Grundarfjörður? Check out our **[Highlights of Snæfellsnes Audio Guided Tour]({% link _tours/snaefellsnes-short.md %})**. 
 
 For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#contact). 

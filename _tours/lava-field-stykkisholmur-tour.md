@@ -4,7 +4,7 @@ title: Berserkjahraun Lava Field and Stykkishólmur Tour
 intro: A journey through the heart of Iceland's rich sagas and traditions
 duration: 3 hours
 image: /assets/images/tours/west-tour/lava.jpg
-active: true
+active: false
 cancellation: true
 order: 31
 short_description: An unforgettable blend of nature and culture
