@@ -5,7 +5,7 @@ intro: A budget-friendly tour to discover some of Snæfellsnes' highlights
 duration: 4 hours
 image: /assets/images/tours/express-tour/bus-and-glacier.jpg
 order: 24
-active: true
+published: true
 cancellation: true
 short_description: An introductory tour to the Highlights of Snæfellsnes
 practical_info:

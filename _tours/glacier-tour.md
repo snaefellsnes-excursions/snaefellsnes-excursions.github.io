@@ -5,7 +5,7 @@ intro: A fantastic snow cat tour to the top of Snæfellsjökull
 duration: 2,5/3 hours
 image: /assets/images/tours/glacier-tour/snaefellsjokull.jpg
 order: 50
-active: true
+published: true
 short_description: Sightseeing snow cat tour
 bokun_id: 861622
 ---

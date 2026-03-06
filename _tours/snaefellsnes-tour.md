@@ -5,7 +5,7 @@ intro: An introduction some of the best attractions on Snæfellsnes
 duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 20
-active: true
+published: true
 cancellation: true
 short_description: Explore the best of Snæfellsnes on our popular bus tour
 practical_info:
