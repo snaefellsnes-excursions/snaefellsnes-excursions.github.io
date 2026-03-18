@@ -18,7 +18,7 @@ layout: default
     <p>Join us on a trip to discover the wonders of Snæfellsnes</p>
   </header>
   <div class="inner">
-    {%- assign tours = site.tours | where: "active", true | sort: 'order' %}
+    {%- assign tours = site.tours | where: "published", true | sort: 'order' %}
     {%- for tour in tours -%}
       {% assign mod = forloop.index | modulo: 2 %}
       <article class="post style2 {% if mod == 0 %}alt{% endif %}">

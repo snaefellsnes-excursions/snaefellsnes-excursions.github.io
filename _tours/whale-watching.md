@@ -5,7 +5,7 @@ intro: An exciting boat ride looking for the giants of the sea
 duration: 2-3,5 hours
 image: /assets/images/tours/whale-watching-tour/whale-watching.png
 order: 35
-active: true
+published: true
 short_description: Meet the gentle giants of the ocean on Snæfellsnes 
 bokun_id: 869980
 ---

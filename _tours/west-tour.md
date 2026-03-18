@@ -4,7 +4,7 @@ title: Shark Museum and Stykkishólmur Tour
 intro: A journey through the heart of Iceland's rich sagas and traditions
 duration: 3 hours
 image: /assets/images/tours/west-tour/stykkisholmur.jpg
-active: false
+published: false
 cancellation: true
 order: 31
 short_description: An unforgettable blend or nature and culture

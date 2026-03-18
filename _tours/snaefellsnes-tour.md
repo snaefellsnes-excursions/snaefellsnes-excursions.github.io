@@ -5,7 +5,7 @@ intro: An introduction some of the best attractions on Snæfellsnes
 duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 20
-active: true
+published: true
 cancellation: true
 short_description: Explore the best of Snæfellsnes on our popular bus tour
 practical_info:
@@ -16,14 +16,14 @@ practical_info:
   Minimum Age: 6 years old
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
-  Duration: Approximately 5 hours
+  Duration: 5 hours
   Inclusions: |
         English-speaking Tour Guide 
         
         Entrance Fee to the Maritime Museum in Hellissandur
         
         Free Wi-Fi on the bus
-  Group Size: Up to 59 people on the bus
+  Group Size: Up to 49 people on the bus
   Distance Driven: 145 km/ 90 mi
 bokun_id: 833852
 ---
