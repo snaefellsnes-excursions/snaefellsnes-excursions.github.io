@@ -28,31 +28,59 @@ practical_info:
 bokun_id: 833852
 ---
 
-Join us on a fascinating journey through the mesmerizing wonders of Snæfellsnes, a region of Iceland that promises to leave a lasting impression. Prepare for an extraordinary tour where nature’s breathtaking landscapes unfold at every twist and turn. 
+Ready to explore one of Iceland’s most incredible regions? Join us on a fun and unforgettable **Snæfellsnes Peninsula** shore excursion from **Grundarfjörður** — perfect for cruise ship passengers who want to make the most of their time in Iceland.
 
-Our adventure begins in the small village of **Grundarfjörður**,  where your vessel is anchored, and where your tour bus awaits, ready to transport you to some of  the top sites of Snæfellsnes Peninsula.
+Often called “Iceland in Miniature”, the Snæfellsnes Peninsula packs everything you love about Iceland into one amazing region: waterfalls, volcanoes, lava fields, black beaches, dramatic cliffs, and charming fishing villages.
 
-Our first destination is **Malarrif**, a gateway to the **Snæfellsjökull National Park**. Delve into the region's rich history, geology, and fauna at the **Visitors Center** or opt for a leisurely stroll to a nearby black pebble beach where crashing waves and a majestic lighthouse create a mesmerizing backdrop. From here you can also enjoy a scenic view of **Lóndrangar** lava stacks. 
+The best part? We pick you up right at the Grundarfjörður **cruise port** — no long transfers, no stress, just straight into the adventure.
 
-<span class="image fit"><img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="" /></span>
+We begin our journey along the dramatic coastline to **Malarrif**, where you’ll experience the raw power of the Atlantic Ocean and sweeping views toward the mystical **Snæfellsjökull glacier** — a volcano topped with ice and surrounded by legend. From here you can also enjoy a scenic view of **Lóndrangar** lava stacks. 
 
-Next, venture to **Arnarstapi**, a picturesque village nestled beneath the legendary **Snæfellsjökull**, one of Iceland’s most famous glaciers. Embark on a scenic walking trail along the shore, where awe-inspiring sea cliffs and extraordinary rock formations showcase nature's artistry. 
-We take a longer break in Arnarstapi. There are a few nearby dining options, including Samkomuhúsið, a small café with facilities and a gift shop selling traditional Icelandic sweaters and other handcrafted items. 
+Next, we continue to **Arnarstapi**, one of the most beautiful coastal spots in Iceland. Here you can walk along stunning basalt cliffs, spot seabirds, and watch waves crash against natural rock formations and sea arches.
 
-<span class="image fit"><img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="" /></span>
+We then visit the **Maritime Museum** in **Hellissandur**, a charming stop that offers a glimpse into Iceland’s fishing heritage and coastal life.
 
-Continuing along the winding road of the Snæfellsnes Peninsula, discover the **Maritime Museum** in **Hellissandur**. Immerse yourself in the local fishing traditions and explore a turf house, gaining insights into Icelanders' lives not so long ago.
+Our final highlight is the iconic **Kirkjufell**, one of the most famous and photographed mountains in Iceland (and yes, it really is that beautiful in real life), along with the nearby waterfalls that complete the picture-perfect view.
 
-<span class="image fit"><img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="" /></span>
+From Kirkjufell, we return comfortably by bus to Grundarfjörður harbour. If you’re feeling up for a bit of fresh air, you can choose to walk back to the Grundarfjörður harbour — a scenic route of approximately 2 km (1.2 miles), which takes around 30 minutes at a relaxed pace.
 
-The grand finale awaits at **Kirkjufell**, an iconic peak that has captured the attention of photographers worldwide. Marvel at its cone-shaped silhouette elegantly rising above the earth, with cascading waterfalls adding an ethereal touch. Game of Thrones enthusiasts may recognize this mystical location as the "arrow-head mountain". Capture the perfect shot of **Kirkjufellsfoss**, the waterfall, gracefully dancing in harmony with the mountain's grandeur.
+Along the way, expect plenty of photo stops, fresh air, and stories from our guides who love sharing Iceland’s history, folklore, and hidden gems. This isn’t just a tour — it’s a fun, relaxed experience designed to give you the real Iceland.
 
-After some time in the Kirkjufell area, we offer a comfortable drive back to the harbor, ensuring you return in ample time to embark on your ship, with memories that will forever linger in your heart.
+Along the way, expect plenty of photo stops, fresh air, and stories from our local guides who love sharing Iceland’s history, folklore, and hidden gems. This isn’t just a tour — it’s a fun, relaxed experience designed to give you the real Iceland.
 
-<span class="image fit"><img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="" /></span>
-
-Our local drivers and knowledgeable tour guides will make sure you have a great time while learning about the nature and history of the Snæfellsnes Peninsula. 
-
-Are you looking for a shorter tour from Grundarfjörður? Check out our **[Snæfellsnes Short Tour]({% link _tours/snaefellsnes-short.md %})**. 
+If you are looking for a shorter version of this tour, you can check out our **[Snæfellsnes Short Tour]({% link _tours/snaefellsnes-short.md %})**. 
 
 For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#contact). 
+
+<h3>Photo Gallery</h3>
+<div class="tour-gallery">
+      <img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="Londrangar lava plugs" onclick="openLightbox(this.src)">
+      <img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(this.src)">
+      <img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="Hellissandur museum" onclick="openLightbox(this.src)">
+      <img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="Kirkjufell mountain" onclick="openLightbox(this.src)">
+</div>
+
+<!-- Lightbox -->
+<div id="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img">
+</div>
+
+<script>
+function openLightbox(src) {
+  const lightbox = document.getElementById("lightbox");
+  const img = document.getElementById("lightbox-img");
+
+  img.src = src;
+  lightbox.style.display = "flex";
+}
+
+function closeLightbox() {
+  document.getElementById("lightbox").style.display = "none";
+}
+</script>
+
+---
+
+<h4>Food & Refreshments</h4> 
+
+We take a longer break in Arnarstapi where you can grab food and drinks. It’s a small village, so options are limited and can get busy in the summer — bringing a snack is always a good idea! 

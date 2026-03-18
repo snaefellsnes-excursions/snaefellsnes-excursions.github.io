@@ -2,3 +2,56 @@
 ---
 
 @import "main";
+
+/* Certifications (footer badge) */
+.certifications {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.certifications p {
+    font-size: 0.9em;
+    margin-bottom: 8px;
+}
+
+.certifications img {
+    height: 80px;
+}
+
+/* Gallery grid */
+.tour-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tour-gallery img {
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.tour-gallery img:hover {
+    transform: scale(1.03);
+}
+
+/* Lightbox */
+#lightbox {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    justify-content: center;
+    align-items: center;
+}
+
+#lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+}
