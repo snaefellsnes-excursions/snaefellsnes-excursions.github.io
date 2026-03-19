@@ -1,13 +1,13 @@
 ---
 layout: tour
 title: Highlights of Snæfellsnes Audio Guided Tour
-intro: A budget-friendly tour to discover some of Snæfellsnes' highlights
+intro: An audio guided tour to discover some of Snæfellsnes' highlights
 duration: 4 hours
 image: /assets/images/tours/express-tour/bus-and-glacier.jpg
 order: 24
 published: true
 cancellation: true
-short_description: An introductory tour to the Highlights of Snæfellsnes
+short_description: A shorter Snæfellsnes tour with audio guide
 practical_info:
   Price: |
         13.000 ISK per person for adults
@@ -24,6 +24,28 @@ practical_info:
   Group Size: Up to 26 people on the bus
   Distance Driven: 131 km/ 81 mi
 bokun_id: 894765
+---
+<div class="tour-info">
+  <div class="info-block">
+    <p class="info-title">Tour Highlights</p>
+    <ul class="highlights">
+      <li>Djúpalónssandur black beach</li>
+      <li>Arnarstapi coastal cliffs</li>
+      <li>Kirkjufell mountain & waterfalls</li>
+      <li>Scenic drive across Snæfellsnes</li>
+    </ul>
+  </div>
+
+  <div class="info-block">
+    <p class="info-title">Perfect for Cruise Passengers</p>
+    <ul class="highlights">
+      <li>Guaranteed return before ship departure</li>
+      <li>Full refund if your ship cannot dock</li>
+      <li>Pickup at Grundarfjörður harbor</li>
+      <li>Easy and time-efficient tour</li>
+    </ul>
+  </div>
+</div>
 ---
 
 Short on time but still want to experience the very best of Snæfellsnes? Our **Highlights of Snæfellsnes** tour is the perfect short **shore excursion from Grundarfjörður**, designed especially for cruise ship passengers who want to see iconic sights without committing to a full-day tour.

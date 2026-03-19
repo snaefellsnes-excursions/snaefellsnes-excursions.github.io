@@ -1,13 +1,13 @@
 ---
 layout: tour
 title: Scenic Snæfellsnes Bus Tour
-intro: An introduction some of the best attractions on Snæfellsnes
+intro: A guided tour of Snæfellsnes from Grundarfjörður
 duration: 5 hours
 image: /assets/images/tours/snæfellsnes-tour/businkirkjufell.jpg
 order: 20
 published: true
 cancellation: true
-short_description: Explore the best of Snæfellsnes on our popular bus tour
+short_description: Explore Snæfellsnes on our most popular guided tour
 practical_info:
   Price: |
         18.000 ISK per person for adults
