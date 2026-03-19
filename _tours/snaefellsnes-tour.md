@@ -61,7 +61,7 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
 
 <!-- Lightbox -->
 <div id="lightbox" onclick="closeLightbox(event)">
-  <span class="close" onclick="closeLightbox(event)">&times;</span>
+  <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
   <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
   <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
   <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
