@@ -6,16 +6,16 @@ layout: default
 <section id="banner">
   <div class="content">
     <h1>Snæfellsnes Excursions</h1>
-    <p>Shore Excursions from Grundarfjörður</p>
+    <p>Family-run local company • Shore Excursions from Grundarfjörður</p>
   </div>
-  <a href="#tours" class="more scrolly">Learn More</a>
+  <a href="#tours" class="more scrolly">View Tours</a>
 </section>
 
 <!-- Section -->
 <section class="main alt" id="tours">
   <header>
     <h2>Tours</h2>
-    <p>Join us on a trip to discover the wonders of Snæfellsnes</p>
+    <p>Discover Snæfellsnes with a local family-run company</p>
   </header>
   <div class="inner">
     {%- assign tours = site.tours | where: "published", true | sort: 'order' %}
@@ -29,7 +29,7 @@ layout: default
           </header>
           <p>{{ tour.short_description }}</p>
           <ul class="actions">
-            <li><a href="{{ tour.url | relative_url }}" class="button next">Learn More</a></li>
+            <li><a href="{{ tour.url | relative_url }}" class="button next">View Tour</a></li>
           </ul>
         </div>
         <div class="image" data-position="center"><img src="{{ tour.image }}" alt="" /></div>

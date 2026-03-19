@@ -27,6 +27,30 @@ practical_info:
   Distance Driven: 145 km/ 90 mi
 bokun_id: 833852
 ---
+<div class="tour-info">
+
+  <div class="info-block">
+    <p class="info-title">Tour Highlights</p>
+    <ul class="highlights">
+      <li>Kirkjufell mountain & waterfalls</li>
+      <li>Snæfellsjökull glacier & volcanic landscapes</li>
+      <li>Arnarstapi</li>
+      <li>Snæfellsjökull National Park Visitor Center</li>
+    </ul>
+  </div>
+
+  <div class="info-block">
+    <p class="info-title">Perfect for Cruise Passengers</p>
+    <ul class="highlights">
+      <li>Guaranteed return before ship departure</li>
+      <li>Full refund if your ship cannot dock</li>
+      <li>Pickup at Grundarfjörður harbor</li>
+      <li>Tours timed with your ship schedule</li>
+    </ul>
+  </div>
+
+</div>
+---
 
 Ready to explore one of Iceland’s most incredible regions? Join us on a fun and unforgettable **Snæfellsnes Peninsula** shore excursion from **Grundarfjörður** — perfect for cruise ship passengers who want to make the most of their time in Iceland.
 
@@ -61,7 +85,6 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
 
 <!-- Lightbox -->
 <div id="lightbox" onclick="closeLightbox(event)">
-  <span class="close" onclick="closeLightbox(event)">&times;</span>
   <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
   <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
   <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
