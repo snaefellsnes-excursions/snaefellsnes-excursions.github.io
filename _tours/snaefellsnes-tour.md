@@ -61,7 +61,7 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
 
 <!-- Lightbox -->
 <div id="lightbox" onclick="closeLightbox(event)">
-  <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
+  <button type="button" class="lightbox-close-btn" onclick="closeLightbox(event)">Close ×</button>
   <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
   <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
   <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
@@ -84,8 +84,11 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
   }
 
   function closeLightbox(event) {
-    // only close if background is clicked
-    if (!event || event.target.id === "lightbox") {
+    if (
+      !event ||
+      event.target.id === "lightbox" ||
+      event.target.classList.contains("lightbox-close-btn")
+    ) {
       document.getElementById("lightbox").style.display = "none";
     }
   }
@@ -102,7 +105,6 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
     document.getElementById("lightbox-img").src = galleryImages[currentIndex];
   }
 
-  // Close with ESC key
   document.addEventListener("keydown", function(e) {
     if (e.key === "Escape") {
       document.getElementById("lightbox").style.display = "none";

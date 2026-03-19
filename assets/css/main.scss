@@ -70,16 +70,21 @@
 }
 
 /* Close button */
-#lightbox .lightbox-close {
+#lightbox .lightbox-close-btn {
     position: absolute;
     top: 20px;
-    right: 25px;
-    font-size: 35px;
-    color: white;
+    right: 20px;
+    z-index: 10002;
+    display: block;
+    background: white;
+    color: black;
+    border: none;
+    padding: 0.55rem 0.8rem;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
     cursor: pointer;
     line-height: 1;
-    z-index: 10001;
-    display: block;
 }
 
 /* Arrows */
@@ -106,11 +111,12 @@
 
 /* Smaller controls on mobile */
 @media screen and (max-width: 736px) {
-    #lightbox .lightbox-close {
-    top: 15px;
-    right: 18px;
-    font-size: 30px;
-}
+    #lightbox .lightbox-close-btn {
+        top: 15px;
+        right: 15px;
+        font-size: 14px;
+        padding: 0.45rem 0.65rem;
+    }
 
     #lightbox .arrow {
         font-size: 32px;
