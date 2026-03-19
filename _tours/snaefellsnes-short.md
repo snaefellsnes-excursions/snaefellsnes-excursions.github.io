@@ -26,28 +26,88 @@ practical_info:
 bokun_id: 894765
 ---
 
-Join us for our **Highlights of Snæfellsnes Audio Guided Tour**, specially designed for cruise ship passengers arriving at **Grundarfjörður port**. This shore excursion is an excellent opportunity to explore the breathtaking highlights of the **Snæfellsnes Peninsula** within a limited timeframe, ensuring you return to the harbor well before your cruise ship's departure.
+Short on time but still want to experience the very best of Snæfellsnes? Our **Highlights of Snæfellsnes** tour is the perfect short **shore excursion from Grundarfjörður**, designed especially for cruise ship passengers who want to see iconic sights without committing to a full-day tour.
 
-Throughout the tour, the **onboard audioguide** will provide fascinating facts and stories about each destination, allowing you to fully appreciate the history, culture, and geology of the Snæfellsnes Peninsula.
+Often called “Iceland in Miniature,” the Snæfellsnes Peninsula is packed with dramatic landscapes, volcanic scenery, rugged coastlines, and unforgettable views — and this tour takes you straight to the highlights.
 
-Your adventure begins directly at the **Grundarfjörður cruise terminal**, where our comfortable tour bus awaits to take you through the stunning landscapes of the Icelandic countryside on the Snæfellsnes Peninsula.
+This is a comfortable **audio-guided tour**, allowing you to explore the scenery while listening to engaging stories, local insights, and fascinating facts about the places you visit.
 
-<span class="image fit"><img src="/assets/images/tours/express-tour/djupalonssandur-beach.jpg" alt="" /></span>
+We begin right at the **Grundarfjörður cruise port** and head west to our first stop, **Djúpalónssandur**, a striking black pebble beach surrounded by lava formations and dramatic coastal scenery. Here you’ll experience the raw power of the Atlantic Ocean and one of the most unique landscapes on the peninsula. Don’t miss the chance to test your strength with the **lifting stones**, an old Icelandic tradition. You'll also have views of the stunning **Snæfellsjökull glacier** from a distance, adding to the magic of the location.
 
-Our journey begins with a visit to **Djúpalónssandur**, a captivating **black beach** within **Snæfellsjökull National Park**. Here, you'll explore the unique pebble beach, learn about the area’s rich maritime history, and admire the coastline with its dramatic **lava formations**. Don’t miss the chance to test your strength with the **lifting stones**, an old Icelandic tradition. You'll also have views of the stunning **Snæfellsjökull glacier** from a distance, adding to the magic of the location.
+Next, we continue to **Arnarstapi**, a charming coastal village known for its stunning basalt cliffs, natural arches, and birdlife. Take a short walk along the cliffs, enjoy the views, and soak in the atmosphere of this beautiful seaside location.
 
-We then head to the picturesque village of **Arnarstapi**, where you'll have time to walk along the scenic coastal trail. This path is renowned for its sea cliffs, lava formations, and abundant birdlife, making it a fantastic spot for nature lovers and photography enthusiasts.
+Our final stop is the iconic **Kirkjufell**, one of the most photographed mountains in Iceland. With its perfectly shaped peak and nearby waterfalls, it’s the perfect way to end your Snæfellsnes experience. 
 
-<span class="image fit"><img src="/assets/images/tours/express-tour/arnarstapi-arch.jpg" alt="" /></span>
+From here, you also have the option to enjoy a scenic walk back to the harbour (approximately 2 km / 1.2 miles, around 30 minutes) if you feel like stretching your legs before returning to your ship — or you can simply relax and ride back with us.
 
-Our final destination is the iconic **Kirkjufell**, one of Iceland’s most photographed mountains. Its distinctive shape, combined with the nearby **Kirkjufellsfoss waterfall**, provides an unforgettable setting for picturesque moments and a tranquil encounter with Iceland’s natural beauty.
+This short Snæfellsnes tour is designed to be efficient, relaxed, and enjoyable — giving you a true taste of Iceland’s incredible nature while ensuring a smooth and timely return to your cruise ship in Grundarfjörður.
 
-<span class="image fit"><img src="/assets/images/tours/express-tour/kirkjufell-express.jpg" alt="" /></span>
-
-After visiting Kirkjufell, we’ll return you to Grundarfjörður port with plenty of time to board your ship or explore the town.
-
-With a small bus ensuring a more intimate experience and a timely schedule, our **Highlights of Snæfellsnes Audio Guided Tour** is the perfect option for cruise passengers looking to experience some of the highlights of Iceland while docked in Grundarfjörður. Enjoy a memorable Icelandic adventure in a convenient and time-efficient manner.
+If you’re looking for a short audio-guided shore excursion in Grundarfjörður that combines iconic sights, dramatic scenery, and an easy-going experience, this is the perfect choice.
 
 If you are not in a hurry, we also offer a loinger version of this tour, our best seller 5-hour **[Scenic Snæfellsnes Tour]({% link _tours/snaefellsnes-tour.md %})**. 
 
-For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#contact). 
+[Get in touch](https://rutuferdir.is/#contact) if you have any questions! 
+
+<h3>Photo Gallery</h3>
+
+<div class="tour-gallery">
+  <img src="/assets/images/tours/express-tour/djupalonssandur-beach.jpg" alt="Londrangar lava plugs" onclick="openLightbox(0)">
+  <img src="/assets/images/tours/express-tour/arnarstapi-arch.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(1)">
+  <img src="/assets/images/tours/express-tour/kirkjufell-express.jpg" alt="Hellissandur museum" onclick="openLightbox(2)">
+  <img src="/assets/images/tours/express-tour/djupalon-beach.JPG" alt="Kirkjufell mountain" onclick="openLightbox(3)">
+</div>
+
+<!-- Lightbox -->
+<div id="lightbox" onclick="closeLightbox(event)">
+  <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
+  <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
+  <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
+</div>
+
+<script>
+  const galleryImages = [
+    "/assets/images/tours/express-tour/djupalonssandur-beach.jpg",
+    "/assets/images/tours/express-tour/arnarstapi-arch.jpg",
+    "/assets/images/tours/express-tour/kirkjufell-express.jpg",
+    "/assets/images/tours/express-tour/djupalon-beach.JPG"
+  ];
+
+  let currentIndex = 0;
+
+  function openLightbox(index) {
+    currentIndex = index;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+    document.getElementById("lightbox").style.display = "flex";
+  }
+
+  function closeLightbox(event) {
+    if (!event || event.target.id === "lightbox" || event.target.classList.contains("close")) {
+      document.getElementById("lightbox").style.display = "none";
+    }
+  }
+
+  function nextImage(event) {
+    event.stopPropagation();
+    currentIndex = (currentIndex + 1) % galleryImages.length;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+  }
+
+  function prevImage(event) {
+    event.stopPropagation();
+    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+  }
+
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") {
+      document.getElementById("lightbox").style.display = "none";
+    }
+  });
+</script>
+
+---
+
+<h4>Food & Refreshments</h4>
+
+This is a shorter tour with limited time at each stop. While there may be opportunities to purchase food in Arnarstapi, options are limited and can be busy during peak season.
+We recommend bringing snacks or a light meal if you’d like to eat during the tour.
