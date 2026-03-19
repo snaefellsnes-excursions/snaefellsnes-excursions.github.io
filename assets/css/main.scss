@@ -70,21 +70,21 @@
 }
 
 /* Close button */
-#lightbox .lightbox-close-btn {
+#lightbox .lightbox-x {
     position: absolute;
-    top: 20px;
+    top: 15px;
     right: 20px;
-    z-index: 10002;
-    display: block;
-    background: white;
-    color: black;
-    border: none;
-    padding: 0.55rem 0.8rem;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: 600;
+    font-size: 40px;
+    color: white;
     cursor: pointer;
+    z-index: 10002;
     line-height: 1;
+    font-weight: 300;
+}
+
+/* Hover effect (nice touch) */
+#lightbox .lightbox-x:hover {
+    opacity: 0.7;
 }
 
 /* Arrows */
@@ -111,12 +111,12 @@
 
 /* Smaller controls on mobile */
 @media screen and (max-width: 736px) {
-    #lightbox .lightbox-close-btn {
-        top: 15px;
+    #lightbox .lightbox-x {
+        top: 10px;
         right: 15px;
-        font-size: 14px;
-        padding: 0.45rem 0.65rem;
+        font-size: 32px;
     }
+}
 
     #lightbox .arrow {
         font-size: 32px;
