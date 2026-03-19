@@ -28,7 +28,6 @@ practical_info:
 bokun_id: 833852
 ---
 <div class="tour-info">
-
   <div class="info-block">
     <p class="info-title">Tour Highlights</p>
     <ul class="highlights">
@@ -48,7 +47,6 @@ bokun_id: 833852
       <li>Tours timed with your ship schedule</li>
     </ul>
   </div>
-
 </div>
 ---
 

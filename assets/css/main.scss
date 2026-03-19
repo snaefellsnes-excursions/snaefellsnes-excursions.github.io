@@ -108,10 +108,28 @@
     }
 }
 
+.tour-info {
+  display: flex !important;
+  gap: 40px;
+  margin: 20px 0;
+  align-items: flex-start;
+}
+
+.info-block {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.info-title {
+  font-weight: 600;
+  font-size: 1.1em;
+  margin: 0 0 15px 0;
+}
+
 .highlights {
-  list-style: none;
-  padding: 0;
-  margin: 15px 0 25px 0;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .highlights li {
@@ -125,35 +143,14 @@
   content: "✔";
   position: absolute;
   left: 0;
+  top: 0;
   color: #2e7d32;
   font-weight: bold;
 }
 
-.tour-info {
-  display: flex;
-  gap: 40px;
-  margin: 20px 0;
-}
-
-.info-block {
-  flex: 1;
-  min-width: 0;
-}
-
-.info-title {
-  font-weight: 600;
-  margin-bottom: 10px;
-  font-size: 1.1em;
-}
-
-/* mobile */
 @media (max-width: 768px) {
   .tour-info {
-    flex-direction: column;
+    flex-direction: column !important;
     gap: 20px;
-  }
-
-  .highlights li {
-    margin-bottom: 10px;
   }
 }
