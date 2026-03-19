@@ -53,15 +53,15 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
 <h3>Photo Gallery</h3>
 
 <div class="tour-gallery">
-      <img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="Londrangar lava plugs" onclick="openLightbox(0)">
-      <img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(1)">
-      <img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="Hellissandur museum" onclick="openLightbox(2)">
-      <img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="Kirkjufell mountain" onclick="openLightbox(3)">
+  <img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="Londrangar lava plugs" onclick="openLightbox(0)">
+  <img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(1)">
+  <img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="Hellissandur museum" onclick="openLightbox(2)">
+  <img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="Kirkjufell mountain" onclick="openLightbox(3)">
 </div>
 
 <!-- Lightbox -->
 <div id="lightbox" onclick="closeLightbox(event)">
-  <button type="button" class="lightbox-close-btn" onclick="closeLightbox(event)">Close ×</button>
+  <span class="close" onclick="closeLightbox(event)">&times;</span>
   <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
   <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
   <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
@@ -84,11 +84,7 @@ For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#cont
   }
 
   function closeLightbox(event) {
-    if (
-      !event ||
-      event.target.id === "lightbox" ||
-      event.target.classList.contains("lightbox-close-btn")
-    ) {
+    if (!event || event.target.id === "lightbox" || event.target.classList.contains("close")) {
       document.getElementById("lightbox").style.display = "none";
     }
   }
