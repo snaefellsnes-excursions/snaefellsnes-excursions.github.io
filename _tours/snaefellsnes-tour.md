@@ -46,41 +46,72 @@ From Kirkjufell, we return comfortably by bus to Grundarfjörður harbour. If yo
 
 Along the way, expect plenty of photo stops, fresh air, and stories from our guides who love sharing Iceland’s history, folklore, and hidden gems. This isn’t just a tour — it’s a fun, relaxed experience designed to give you the real Iceland.
 
-Along the way, expect plenty of photo stops, fresh air, and stories from our local guides who love sharing Iceland’s history, folklore, and hidden gems. This isn’t just a tour — it’s a fun, relaxed experience designed to give you the real Iceland.
-
 If you are looking for a shorter version of this tour, you can check out our **[Snæfellsnes Short Tour]({% link _tours/snaefellsnes-short.md %})**. 
 
 For any questions, do not hesitate to [get in touch](https://rutuferdir.is/#contact). 
 
 <h3>Photo Gallery</h3>
+
 <div class="tour-gallery">
-      <img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="Londrangar lava plugs" onclick="openLightbox(this.src)">
-      <img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(this.src)">
-      <img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="Hellissandur museum" onclick="openLightbox(this.src)">
-      <img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="Kirkjufell mountain" onclick="openLightbox(this.src)">
+      <img src="/assets/images/tours/snæfellsnes-tour/londrangar.jpg" alt="Londrangar lava plugs" onclick="openLightbox(0)">
+      <img src="/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg" alt="Arnarstapi cliffs" onclick="openLightbox(1)">
+      <img src="/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg" alt="Hellissandur museum" onclick="openLightbox(2)">
+      <img src="/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg" alt="Kirkjufell mountain" onclick="openLightbox(3)">
 </div>
 
 <!-- Lightbox -->
-<div id="lightbox" onclick="closeLightbox()">
-  <img id="lightbox-img">
+<div id="lightbox" onclick="closeLightbox(event)">
+  <span class="close" onclick="closeLightbox(event)">&times;</span>
+  <span class="arrow left" onclick="prevImage(event)">&#10094;</span>
+  <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation()">
+  <span class="arrow right" onclick="nextImage(event)">&#10095;</span>
 </div>
 
 <script>
-function openLightbox(src) {
-  const lightbox = document.getElementById("lightbox");
-  const img = document.getElementById("lightbox-img");
+  const galleryImages = [
+    "/assets/images/tours/snæfellsnes-tour/londrangar.jpg",
+    "/assets/images/tours/snæfellsnes-tour/arnarstapi.jpg",
+    "/assets/images/tours/snæfellsnes-tour/maritime-museum.jpg",
+    "/assets/images/tours/snæfellsnes-tour/kirkjufell.jpg"
+  ];
 
-  img.src = src;
-  lightbox.style.display = "flex";
-}
+  let currentIndex = 0;
 
-function closeLightbox() {
-  document.getElementById("lightbox").style.display = "none";
-}
+  function openLightbox(index) {
+    currentIndex = index;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+    document.getElementById("lightbox").style.display = "flex";
+  }
+
+  function closeLightbox(event) {
+    // only close if background is clicked
+    if (!event || event.target.id === "lightbox") {
+      document.getElementById("lightbox").style.display = "none";
+    }
+  }
+
+  function nextImage(event) {
+    event.stopPropagation();
+    currentIndex = (currentIndex + 1) % galleryImages.length;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+  }
+
+  function prevImage(event) {
+    event.stopPropagation();
+    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
+    document.getElementById("lightbox-img").src = galleryImages[currentIndex];
+  }
+
+  // Close with ESC key
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") {
+      document.getElementById("lightbox").style.display = "none";
+    }
+  });
 </script>
 
 ---
 
-<h4>Food & Refreshments</h4> 
+<h4>Food & Refreshments</h4>
 
-We take a longer break in Arnarstapi where you can grab food and drinks. It’s a small village, so options are limited and can get busy in the summer — bringing a snack is always a good idea! 
+We take a longer break in Arnarstapi where you can grab food and drinks. It’s a small village, so options are limited and can get busy in the summer — bringing a snack is always a good idea!
