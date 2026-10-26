@@ -10,9 +10,9 @@ cancellation: true
 short_description: A shorter Snæfellsnes tour with audio guide
 practical_info:
   Price: |
-        13.000 ISK per person for adults
+        18.000 ISK per person for adults
 
-        10.500 ISK per person for children (6-15)
+        14.500 ISK per person for children (6-15)
   Minimum Age: 6 years old
   Departure Location: Grundarfjörður Harbour, to the right of where you disembark from your ship/tender
   Drop-off Location: Grundarfjörður Harbour
