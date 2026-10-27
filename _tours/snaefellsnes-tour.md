@@ -23,7 +23,7 @@ practical_info:
         Entrance Fee to the Maritime Museum in Hellissandur
         
         Free Wi-Fi on the bus
-  Group Size: Up to 49 people on the bus
+  Group Size: Up to 60 people on the bus
   Distance Driven: 145 km/ 90 mi
 bokun_id: 833852
 ---
